@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohan Srinivas.
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning full stack web devolopment(MERN stack)
-- 💞️ I’m looking to collaborate on web devolopment
+- 🌱 I’m currently learning full stack web development(MERN stack)
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me at mohanaditya138@gmail.com
 
 <!---
